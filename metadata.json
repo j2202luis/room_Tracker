@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Classroom Tracker",
+  "description": "A private classroom tracking and scheduling system for SSCT featuring restricted institutional login, role-based dashboards, and admin request approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
